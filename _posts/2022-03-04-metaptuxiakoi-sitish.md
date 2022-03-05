@@ -8,7 +8,7 @@ tags:
 
 <br />
 
-### <p align="center"> ΑΝΑΚΟΙΝΩΣΗ </p>
+<h3 align="center"> ΑΝΑΚΟΙΝΩΣΗ </h3>
 
 <br />
 
